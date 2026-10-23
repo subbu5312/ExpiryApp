@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20767743493",
+    "project_id": "fileexpiryapp",
+    "storage_bucket": "fileexpiryapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20767743493:android:87c33b5e62c5ab5613466c",
+        "android_client_info": {
+          "package_name": "com.company.FileExpiry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFcKrvG5dHKRd3arYbxtqIfhpcv3ZpTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "EFile Vault",
+  "description": "Self-expiring and password-protected encrypted file manager with server-controlled key management, .efile generation, secure links, and authorized viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

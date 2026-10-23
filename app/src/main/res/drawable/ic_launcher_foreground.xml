@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document / Shield Outline (Centered within 66dp safe zone) -->
+    <!-- Safe zone is x: 21 to 87, y: 21 to 87 -->
+    <!-- Document Card -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M34,26 L66,26 L76,36 L76,82 C76,84.2 74.2,86 72,86 L36,86 C33.8,86 32,84.2 32,82 L32,28 C32,26.9 32.9,26 34,26 Z" />
+    <!-- Folded corner -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M66,26 L66,36 L76,36 Z" />
+    <!-- Outer Shield / Vault Ring -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M54,42 C64,42 70,46 70,55 C70,68 56,76 54,77 C52,76 38,68 38,55 C38,46 44,42 54,42 Z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,46 C61,46 66,49 66,56 C66,65 55,71.5 54,72.5 C53,71.5 42,65 42,56 C42,49 47,46 54,46 Z" />
+    <!-- Center Lock Body -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M48,58 L60,58 C61.1,58 62,58.9 62,60 L62,67 C62,68.1 61.1,69 60,69 L48,69 C46.9,69 46,68.1 46,67 L46,60 C46,58.9 46.9,58 48,58 Z" />
+    <!-- Lock Shackle -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M50,58 L50,54 C50,51.8 51.8,50 54,50 C56.2,50 58,51.8 58,54 L58,58 L56,58 L56,54 C56,52.9 55.1,52 54,52 C52.9,52 52,52.9 52,54 L52,58 Z" />
+    <!-- Keyhole -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,62 A1.5,1.5 0 1,0 54,65 L54,67 L53,67 L53,65 A1.5,1.5 0 0,0 54,62 Z" />
+    <!-- Small Expiration Clock Accent on bottom right -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M70,68 A8,8 0 1,1 70,84 A8,8 0 1,1 70,68 Z" />
+    <!-- Clock Hands -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M69,72 L71,72 L71,76 L74,76 L74,78 L69,78 Z" />
+</vector>
